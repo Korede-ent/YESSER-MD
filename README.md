@@ -6,7 +6,7 @@
  </p>
  
  <a href="https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G">
- <img alt="𝕐𝔼𝕊𝕊𝔼ℝ 𝕄𝔻" height="300" src="https://i.imgur.com/rhN88rS.jpeg".
+ <img alt="𝕐𝔼𝕊𝕊𝔼ℝ 𝕄𝔻" height="300" src="https://files.catbox.moe/x9td6k.jpeg".
 
 </h1> 
 <p align="center">ɪ ɪɴᴛʀᴏᴅᴜᴄᴇ <b>𝕃
@@ -87,6 +87,22 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
  <img src="https://img.shields.io/badge/𝔻𝔼ℙ𝕃𝕆𝕐%20𝕋𝕆%20ℍ𝔼ℝ𝕆𝕂𝕌-purple?style=for-the-badge&logo=heroku" width="200" height="38.45"/></a></p>
 
 
+
+
+#### DEPLOY ON RENDER 
+**1. If You Don't Have An Account On Render**
+- <a href="https://dashboard.render.com/register"><img src="https://img.shields.io/badge/CREATE AN ACCOUNT NOW-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
+**2. If You Have an account on Render**
+- <a href="https://render.com"><img title="Deploy Now" src="https://img.shields.io/badge/DEPLOY NOW-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
+**.Create an account on UPTIME TO MAKE YOUR RENDER BOT STABLE**
+- <a href="https://uptimerobot.com"><img title="Deploy Now" src="https://img.shields.io/badge/CREATE NOW-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
+
+
+
+
 ##
 
 
@@ -95,7 +111,7 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
 ℂ𝕆ℕ𝕋𝔸ℂ𝕋 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝔼ℝ 𝕆ℕ 𝕎ℍ𝔸𝕋𝕊𝔸ℙℙ 
 
 𝕎𝔸𝕋𝕊𝔸ℙℙ 𝕄𝔼
-<a href="https://wa.me/255621995482" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="255621995482" height="60" width="70" /></a>
+<a href="https://wa.me/255621995482?text=Hi+YESSERTECH+I+Need+Help" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="255621995482" height="60" width="70" /></a>
 
 
 𝕎𝔸𝕋𝕊𝔸ℙℙ ℂℍ𝔸ℕℕ𝔼𝕃
