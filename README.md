@@ -1,12 +1,12 @@
 </h1> 
-<p align="center">🇾 🇪 🇸 🇪  🇷  🇲 🇩 
+<p align="center"> 𝖄𝕰𝕾𝕾𝕰𝕽 𝕸𝕯
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&random=false&width=435&lines=+MY+NAME+ IS+YESSER+MD+BOT+CREATED+BY+YESSER+BOY+SON+Fork+Me+Please" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=100&size=20&duration=9000&pause=200&random=false&width=535&lines=+MY+NAME+ IS+YESSER+MD+BOT+CREATED+BY+YESSER+tech+SON+Fork+Me+Please" alt="Typing SVG" /></a>
  </p>
  
- <a href="https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G">
- <img alt="𝕐𝔼𝕊𝕊𝔼ℝ 𝕄𝔻" height="300" src="https://files.catbox.moe/x9td6k.jpeg".
+ <a href="https://chat.whatsapp.com/DFmm1OBboewBk9kEDBrfNv">
+ <img alt="𝕐𝔼𝕊𝕊𝔼ℝ 𝕄𝔻" height="300" src="https://files.catbox.moe/eou4n8.jpeg".
 
 </h1> 
 <p align="center">ɪ ɪɴᴛʀᴏᴅᴜᴄᴇ <b>𝕃
@@ -39,51 +39,65 @@ YESSER MD</b>, simple powerful bot </p>
 
 
 
-    
- 
- 
 
 
 
----
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Enjoy++new vision..🖐️🤠+YESSER-MD+powered+by+YESSER TECH" alt="Typing SVG" /></a>
-
+## HOW TO DEPLOY YESSER MD 🤠 
 
 
-## ℍ𝕆𝕎 𝕋𝕆 𝔻𝔼ℙ𝕃𝕆𝕐 𝕐𝔼𝕊𝕊𝔼ℝ 𝕄𝔻 
-
-
-## 𝟙.𝔽𝕀ℝ𝕊𝕋 𝕊𝕋𝔼ℙ 
+## 1. FIRST STEP 
 FORK this repo YESSER-MD
 
 
-<a href="https://github.com/yassin994/YESSER-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝔽𝕆ℝ𝕂 𝕋ℍ𝕀𝕊 ℝ𝔼ℙ𝕆-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://github.com/yassin994/YESSER-MD/fork"><img title="Tap Here Open session site" src="https://img.shields.io/badge/𝔽𝕆ℝ𝕂 𝕋ℍ𝕀𝕊 ℝ𝔼ℙ𝕆-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®️
 
-## 𝟚.𝕊𝔼ℂ𝕆ℕ𝔻 𝕊𝕋𝔼ℙ 
+## 2.SECOND STEP
+ *CONNECT BY PAIRING CODE THROUGH BOTH STYLE*
 
 
- 𝔾𝔼𝕋 𝕊𝔼𝕊𝕊𝕀𝕆ℕ 𝕀𝔻 𝔹𝕐
+##*YESSER MD NORMAL BOT*##
+
+   ༆𝕊𝔼𝕊𝕊𝕀𝕆ℕ 𝕊𝕀𝕋𝔼༆
+𝐟𝐨𝐫 𝐧𝐨𝐫𝐦𝐚𝐥 𝐛𝐨𝐭👇 𝐩𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐢𝐝
  
 
-<a href="https://yesser.onrender.com"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/ℚℝ ℂ𝕆𝔻𝔼-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://yesser.onrender.com"><img title="Tap Here Open session Site" src="https://img.shields.io/badge/ℚℝ ℂ𝕆𝔻𝔼-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 
  
-<a href="https://yesser.onrender.com"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝕊𝕀𝕋𝔼 𝔽𝕆ℝ ℙ𝔸𝕀ℝ-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://yesser.onrender.com"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/normal bot pair-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
+##*YESSER MD BOTTOM BOT*##
 
 
-## 𝟛.𝕋ℍ𝕀ℝ𝔻 𝕊𝕋𝔼ℙ 
+  𝐟𝐨𝐫 𝐛𝐨𝐭𝐭𝐨𝐦 𝐛𝐨𝐭 👇 𝐩𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐢𝐝
+ 
+
+    
+<a href='https://yesser-scanner-8309ae116f64.herokuapp.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Sbottom pair-900000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
+
+
+    
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a> 
+
+
+
+
+
+
+
+## 3. LAST STEP HERE WE GO 🤠
 **1. ɪғ ʏᴏᴜ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ ʜᴇʀᴏᴋᴜ**
-
+💯 ### 🎁 DEPLOY ON HEROUK ##
 <a href="https://signup.heroku.com">
  <img src="https://img.shields.io/badge/ℂℝ𝔼𝔸𝕋𝔼%20𝔸ℂℂ𝕆𝕌ℕ𝕋%20ℕ𝕆𝕎-purple?style=for-the-badge&logo=heroku" width="200" height="38.45"/></a></p>
 
 **2. ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ ʜᴇʀᴏᴋᴜ**       
 <br>
-<a href="https://dashboard.heroku.com/new?template=https://github.com/Yassin994/YESSER-MD/tree/main">
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Yassin994/YESSER-1/tree/main">
  <img src="https://img.shields.io/badge/𝔻𝔼ℙ𝕃𝕆𝕐%20𝕋𝕆%20ℍ𝔼ℝ𝕆𝕂𝕌-purple?style=for-the-badge&logo=heroku" width="200" height="38.45"/></a></p>
 
 
@@ -103,25 +117,45 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
 
 
 
-##
+
+#### DEPLOY TO PANEL 
+
+1. If You don't have a account on panel Create a account.
+    <br>
+<a href='https://bot-hosting.net/?aff=1086839354611212288' target="_blank"><img alt='Render' src='https://img.shields.io/badge/CREATE-h?color=Pink&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
+
+
+2. Now Deploy
+    <br>
+<a href='https://bot-hosting.net/?aff=1086839354611212288' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
+
+
+
+*guys that main zip is for panel deployers but isn't finished yet so just cool soon we will fix it keep turned...* 💔
+
+
+
+#### <a href="https://github.com/yassin994/YESSER-MD/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILE-HERE-red" alt="Rainhost Files" width="150"></a>
 
 
 
 
-ℂ𝕆ℕ𝕋𝔸ℂ𝕋 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝔼ℝ 𝕆ℕ 𝕎ℍ𝔸𝕋𝕊𝔸ℙℙ 
 
-𝕎𝔸𝕋𝕊𝔸ℙℙ 𝕄𝔼
+
+## DO YOU NEED SUPPORT? 🤠yes im here to help you 24hrs. 
+
+🎁 owner on wastapp 🤙
 <a href="https://wa.me/255621995482?text=Hi+YESSERTECH+I+Need+Help" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="255621995482" height="60" width="70" /></a>
 
 
-𝕎𝔸𝕋𝕊𝔸ℙℙ ℂℍ𝔸ℕℕ𝔼𝕃
+𝙮𝙚𝙨𝙨𝙚𝙧𝙩𝙚𝙘𝙝 𝙨𝙪𝙥𝙥𝙤𝙧𝙩 𝙜𝙧𝙤𝙪𝙥🎤
 <a
-href="https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G"  target="blank"><img
- align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="fredietech" height="60" width="70" /></a>
+href="https://chat.whatsapp.com/DFmm1OBboewBk9kEDBrfNv" target="blank"><img
+ align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="yessertech" height="60" width="70" /></a>
 
 
-𝕐𝕆𝕌𝕋𝕌𝔹𝔼 ℂℍ𝔸ℕℕ𝔼𝕃
-<a href="https://www.youtube.com/@Yesserboy92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="freditech" height="60" width="70" /></a>
+😭 FOLLOW MY YOUTUBE CHANNEL
+<a href="https://www.youtube.com/@Yesserboy92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yessertech" height="60" width="70" /></a>
 
 
 ## License
@@ -131,14 +165,13 @@ The WhatsApp Bot YESSER MD is released under the [MIT License](https://opensourc
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•Role+number-one; don't-trust+any one+🖐️🤠;DEVELOPED+BY+YESSER+TECH;RELEASED+DATE+22%2F6%2F2024." alt="Typing SVG" /></a>
 
 
-🌟 𝕋ℍ𝔸ℕ𝕂 𝕐𝕆𝕌 𝔽𝕆ℝ ℂℍ𝕆𝕆𝕊𝕀ℕ𝔾 YESSER🍀_MD 🌟
+🌟 *thanks for using YESSER🤠_MD*
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+YESSER- MD+MADE+IN+TANZANIA+🇹🇿♥️" alt="Typing SVG" /></a>
 
 ## 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝔼ℝ𝕊 :
 
 - [**YESSIR TECH**](https://github.com/yassin994)
-- [**FREDIE TECH**](https://github.com/Fred1e)
 - [**BONIPHACE TECH**](http://github.com/Boniphace30)
 - [**Developers YT**](https://www.youtube.com/@Yesserboy92)
 
@@ -168,3 +201,39 @@ The WhatsApp Bot YESSER MD is released under the [MIT License](https://opensourc
 </p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+
+
+
+
+
+*`🎁 available services🎁
+👉i creat herouk acc for 4k
+👉 i deploy bots for 3k
+👉i made owners bost for 25k*
+
+
+## like that one 🎁herouk card🎁##
+......... YESSER CARD............
+
+🎁 *Card* 4403530005953162
+
+💔 *Cvv* 808
+❤️. *Exp* 10/27
+
+💀 *name* yesser tech
+💀 *country* Tanzania
+
+💀. *city* Dar es salaam
+................................................
+
+
+
+
+ 
+ <a href="https://chat.whatsapp.com/DFmm1OBboewBk9kEDBrfNv">
+ <img alt="𝕐𝔼𝕊𝕊𝔼ℝ 𝕄𝔻" height="200" src="https://files.catbox.moe/q7aubp.mp4".
+
+
+❤️ one love .................
